@@ -5,10 +5,9 @@
 ##
 
 <div> <h1>Redes Sociais</h1>
-    <a href="https://www.instagram.com/hts.dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="dudusichelero1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
-    <a href="https://t.me/EduardoSichelero" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
     <a href = "mailto:eduardoddssichelero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/EduardoSichelero" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/hts.dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/eduardo-sichelero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
@@ -27,6 +26,8 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=jolly"/>
-  </div>
+
+</div>
   <br>
