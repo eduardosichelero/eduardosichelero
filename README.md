@@ -1,9 +1,7 @@
 ## Olá, Eu sou o Eduardo Sichelero
-- 🔭 Em busca de oportunidades de emprego
 - 🌱 Estou cursando Ciencia da Computação
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me: ...
+- 🔭 Em busca de oportunidades de emprego
+- 😃 Sempre buscando aprimorar meus conhecimentos
 ##
 
 <div> <h1>Redes Sociais</h1>
@@ -25,7 +23,6 @@
 
 
 ##
-
 
 <div>
   
