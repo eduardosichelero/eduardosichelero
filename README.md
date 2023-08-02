@@ -3,7 +3,7 @@
 <div align="center">
   
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 <div  align="center"> 
@@ -23,4 +23,7 @@
     <a href="https://www.instagram.com/hts.dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/eduardo-sichelero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardosichelero&bg_color=000000&color=00ff40&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
