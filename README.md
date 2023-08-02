@@ -1,9 +1,9 @@
 ## Olá eu Sou o Eduardo e este é meu GitHub!
 
-<div>
+<div align="center">
   
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 <div  align="center"> 
