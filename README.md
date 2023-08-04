@@ -1,10 +1,11 @@
 ## Olá eu Sou o Eduardo e este é meu GitHub!
 
-<div align="center">
-    
-  ![eduardosichelero GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=chartreuse-dark&count_private=true)
+<div align="center">  
+  <img  height="195em" src=https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=chartreuse-dark&count_private=true/>
   <img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
+
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
