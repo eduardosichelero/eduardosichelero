@@ -1,15 +1,15 @@
 ## Olá eu Sou o Eduardo e este é meu GitHub!
 
 <div align="center">  
-  <img  height="170em" src=https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=chartreuse-dark&count_private=true/>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img  height="170em" src=https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=solarized-light&count_private=true/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=solarized-light"/>
 </div>
 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias 📱</h1>
+    <h1 align="center">Tecnologias </h1>
     <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,5 +25,5 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardosichelero&bg_color=000000&color=00ff40&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardosichelero&bg_color=FDF6E3&color=268BD2&line=859900&point=B58900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
