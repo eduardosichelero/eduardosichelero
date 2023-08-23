@@ -1,8 +1,8 @@
 ## Olá eu Sou o Eduardo e este é meu GitHub!
 
 <div align="center">  
-  <img  height="170em" src=https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=solarized-light&count_private=true/>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=solarized-light"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardosichelero&show_icons=true&theme=midnight-purple&count_private=true&bg_color=ffffff&text_color=000000&border_color=9745f5"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosichelero&layout=compact&langs_count=16&theme=midnight-purple&bg_color=ffffff&text_color=000000&border_color=9745f5"/>
 </div>
 
 
@@ -25,5 +25,4 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardosichelero&bg_color=FDF6E3&color=268BD2&line=859900&point=B58900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardosichelero&theme=midnight-purple&bg_color=ffffff&text_color=000000&color=9745f5&line=9745f5&point=000000&area=true&radius=12&hide_border=false&border_color=9745f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
