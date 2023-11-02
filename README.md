@@ -26,6 +26,7 @@
     <a href="https://t.me/EduardoSichelero" target="_blank"><img src="https://img.shields.io/badge/Telegram-6F4FE0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/hts.dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-CF4FE0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/eduardo-sichelero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-5B68D9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://linktr.ee/EduardoSSichelero" target="_blank"><img src="https://img.shields.io/badge/linktree-FF79C6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
